@@ -2,7 +2,9 @@
 
 **`Full Stack Software Developer `** **`Business & Financial Consultant`**
 
-I'm a full-stack developer with 5+ YOE, currently working as a Frontend (React) Engineer at a web development agency. In addition to my strong technical background, I also spent nearly a decade as a business consultant providing professional financial services possessing a strong track record in data analytics, complex financial modeling, ROI-driven decision-making, and strategic optimization. Proficient in simplifying intricate data sets, aligning measurement priorities with stakeholders, and facilitating investment decisions. Adept at managing client relationships, leading internal teams, conducting ad hoc financial analysis, meeting deadlines, and staying attuned to industry drivers and trends. Highly skilled in collaborating with cross-functional teams, including senior executives, to propel business success.
+I'm a full-stack developer with 5+ YOE, currently working as a Frontend (React) Engineer at a web development agency. 
+
+In addition to my strong technical background, I also spent nearly a decade as a business consultant providing professional financial services possessing a strong track record in data analytics, complex financial modeling, ROI-driven decision-making, and strategic optimization. Proficient in simplifying intricate data sets, aligning measurement priorities with stakeholders, and facilitating investment decisions. Adept at managing client relationships, leading internal teams, conducting ad hoc financial analysis, meeting deadlines, and staying attuned to industry drivers and trends. Highly skilled in collaborating with cross-functional teams, including senior executives, to propel business success.
  
 <h3>🛠️ Languages & Tools</h3>
 

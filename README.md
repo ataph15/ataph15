@@ -2,7 +2,7 @@
 
 <br/>
 
-  <summary><h2>🛠️ Languages & Tools</h2></summary>
+  <h3>🛠️ Languages & Tools</h3>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>

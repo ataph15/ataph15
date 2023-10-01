@@ -1,6 +1,6 @@
 # Arthur Taphanand
 
-**`Full Stack Software Developer (5 YOE)`** **`Former Business/Financial Consultant (9 YOE)`**
+**`Full Stack Software Developer (5 YOE)`** **`Business & Financial Consultant (9 YOE)`**
 
  
 <br/>

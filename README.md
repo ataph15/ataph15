@@ -7,7 +7,6 @@ I'm a full-stack developer with 5+ YOE, currently working as a Frontend (React) 
 In addition to my strong technical background, I also hold dual degrees in Finance & Economics and have served as a business consultant providing professional financial services for 9+ years - possessing a strong track record in data analytics, complex financial modeling, ROI-driven decision-making, and strategic optimization. Proficient in simplifying intricate data sets, aligning measurement priorities with stakeholders, and facilitating investment decisions. Adept at managing client relationships, leading internal teams, conducting ad hoc financial analysis, meeting deadlines, and staying attuned to industry drivers and trends. Highly skilled in collaborating with cross-functional teams, including senior executives, to propel business success.
  
 <h3>🛠️ Languages & Tools</h3>
-
 <p>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -22,7 +21,6 @@ In addition to my strong technical background, I also hold dual degrees in Finan
 </p>
 
 <h3>🧰 Frameworks and Libraries</h3>
-
 <p>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -34,7 +32,6 @@ In addition to my strong technical background, I also hold dual degrees in Finan
 </p>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
-
 <p>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -48,7 +45,6 @@ In addition to my strong technical background, I also hold dual degrees in Finan
 </p>
 
 <h3>💻 Software and Tools</h3>
-
 <p>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
   <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>

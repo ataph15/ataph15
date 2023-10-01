@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <summary><h2>Arthur Taphanand</h2></summary>
-</p>
+# Arthur Taphanand
 
 <br/>
 

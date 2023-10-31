@@ -4,12 +4,16 @@ Arthur Taphanand
 
 <h4 align='center'>
  
-**`Full Stack Software Developer `** 
+**` Shopify Developer `** 
 
+</h4>
+<h4 align='center'>
+ 
+**` Full Stack Software Developer `** 
 </h4>
 
 <p align='center'>
-I'm a full-stack developer with 5+ YOE, currently working as a Frontend (React) Engineer at a Shopify Plus development agency. 
+I'm a full-stack developer with 5+ YOE, currently working as a React Engineer at a Shopify Plus development agency. 
 </p>
 
 

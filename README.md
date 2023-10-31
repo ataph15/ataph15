@@ -2,7 +2,7 @@
 <h1 align='center'>👨‍🎨 Arthur Taphanand </h1>
 
 <p align='center'>
-Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working at a Shopify Plus development agency.
+Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working at a Shopify Plus development agency - providing solutions for eCommerce giants in today's marketplace. 
 </p>
 
 <h2 align='center'>
@@ -35,15 +35,18 @@ Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working
  
 <p align='center'>
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-20232a.svg?logo=vue.js&logoColor=%41b883">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
 
- <p align='center'>
+<p align='center'>
+  <img alt="Shopify API" src="https://img.shields.io/badge/ShopifyAPI-96BF48.svg?logo=shopify&logoColor=white">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-de33a6.svg?logo=graphql&logoColor=white">
+  <img alt="Rest API" src="https://img.shields.io/badge/REST%20API-01b5e6.svg?logo=rest&logoColor=white">
   <img alt="Notion API" src="https://img.shields.io/badge/NotionAPI-010101.svg?logo=notion&logoColor=white">
   <img alt="Stripe API" src="https://img.shields.io/badge/StripeAPI-010101.svg?logo=stripe&logoColor=white">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20Automation-34A853.svg?logo=google%20sheets&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
 
 <p align='center'>
@@ -51,10 +54,13 @@ Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working
   <img alt="Sketch" src="https://img.shields.io/badge/Sketch-f5a800.svg?logo=sketch&logoColor=white">
   <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20XD-FF0000.svg?logo=adobe&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20Automation-34A853.svg?logo=google%20sheets&logoColor=white">
 </p>
 
 <h2 align='center'>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🎨Art+Gallery:)](https://git.io/typing-svg) 
-</h2>
+
+<h4 align='center'>
+  
+  *Some notable clients and projects include...*

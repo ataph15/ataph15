@@ -6,11 +6,10 @@ I'm a full-stack developer with 5+ YOE, currently working at a Shopify Plus deve
 <h2 align='center'>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🖌️+Tech+%26+Tools:)](https://git.io/typing-svg)  
-</h2>
 <p align='center'>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="Shopify" src="https://img.shields.io/badge/Liquid-96BF48.svg?logo=shopify&logoColor=white">
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify%20Liquid-96BF48.svg?logo=shopify&logoColor=white">
   <img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white">
 </p>
 
@@ -19,7 +18,8 @@ I'm a full-stack developer with 5+ YOE, currently working at a Shopify Plus deve
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="XML" src="https://img.shields.io/badge/xml%2BXML-e0982c.svg?logo=xml&logoColor=white">
+  <img alt="XML" src="https://img.shields.io/badge/xml-e0982c.svg?logo=xml&logoColor=white">
+  <img alt="Ruby" src="https://img.shields.io/badge/ruby-ae1401.svg?logo=ruby&logoColor=white">
 </p>
 
 <p align='center'> 
@@ -45,7 +45,8 @@ I'm a full-stack developer with 5+ YOE, currently working at a Shopify Plus deve
 
 <p align='center'>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white">
-  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
+  <img alt="Sketch" src="https://img.shields.io/badge/Sketch-f5a800.svg?logo=sketch&logoColor=white">
+  <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20XD-FF0000.svg?logo=adobe&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>

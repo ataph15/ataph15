@@ -1,11 +1,14 @@
 
 <h1 align='center'>👨‍🎨 Arthur Taphanand </h1>
 
-I'm a full-stack developer with 5+ YOE, currently working at a Shopify Plus development agency.
+<p align='center'>
+Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working at a Shopify Plus development agency.
+</p>
 
 <h2 align='center'>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🖌️+Tech+%26+Tools:)](https://git.io/typing-svg)  
+  
 <p align='center'>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">

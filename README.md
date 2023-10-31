@@ -5,6 +5,7 @@
 Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working at a Shopify Plus development agency - providing solutions for eCommerce giants in today's marketplace. 
 </p>
 
+
 <h2 align='center'>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🖌️+Tech+%26+Tools:)](https://git.io/typing-svg)  
@@ -14,6 +15,7 @@ Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Shopify" src="https://img.shields.io/badge/Shopify%20Liquid-96BF48.svg?logo=shopify&logoColor=white">
   <img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white">
+  <img alt="Shopify App Dev" src="https://img.shields.io/badge/Shopify%20App%20Dev-96BF48.svg?logo=shopify&logoColor=white">
 </p>
 
 <p align='center'>
@@ -61,6 +63,13 @@ Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🎨Art+Gallery:)](https://git.io/typing-svg) 
 
-<h4 align='center'>
+ <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white" width='200px' height='200px'>
+ <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white" width='200px' height='200px'>
+ <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white" width='200px' height='200px'>
+ <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white" width='200px' height='200px'>
+
+
+<h4 align='center'> 
   
-  *Some notable clients and projects include...*
+  **Some notable clients and projects*  </h4>
+  

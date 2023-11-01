@@ -63,10 +63,9 @@ Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🎨Art+Gallery:)](https://git.io/typing-svg) 
 
- <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white" width='200px' height='200px'>
- <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white" width='200px' height='200px'>
- <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white" width='200px' height='200px'>
- <img alt="Figma" src="https://img.shields.io/badge/Figma-FF0000.svg?logo=figma&logoColor=white" width='200px' height='200px'>
+ <img alt="Attitude" src="" width='200px' height='200px'>
+ <img alt="Gems" src="" width='200px' height='200px'>
+ <img alt="Zinus" src="" width='200px' height='200px'>
 
 
 <h4 align='center'> 

@@ -63,12 +63,22 @@ Hey there! I'm Art and I'm a full-stack developer with 4+ YOE, currently working
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🎨Art+Gallery:)](https://git.io/typing-svg) 
 
-<ul>
+<ul text-align='left'>
   <li>
     <a href="https://attitudeliving.com/">
-      Attitude
+      Attitude Living
     </a>
-    </li>
+  </li>
+    <li>
+    <a href="https://trueclassictees.com/">
+      True Classic Tees
+    </a>
+  </li>
+  <li>
+    <a href="https://zinus.com/">
+      Zinus Mattresses
+    </a>
+  </li>
 </ul>
 
 

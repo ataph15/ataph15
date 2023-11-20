@@ -70,5 +70,5 @@ Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working
 
 <h4 align='center'> 
   
-  **Some notable clients and projects*  </h4>
+  **Some notable Shopify Plus clients and projects*  </h4>
   

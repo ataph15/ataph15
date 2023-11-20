@@ -2,7 +2,7 @@
 <h1 align='center'>👨‍🎨 Arthur Taphanand </h1>
 
 <p align='center'>
-Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working as a React Developer at a Shopify Plus development agency - providing solutions for eCommerce giants in today's marketplace. 
+Hey there! I'm Art and I'm a full-stack developer with 4+ YOE, currently working as a React Developer at a Shopify Plus development agency - providing solutions for eCommerce giants in today's marketplace. 
 </p>
 
 
@@ -63,9 +63,13 @@ Hey there! I'm Art and I'm a full-stack developer with 5+ YOE, currently working
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🎨Art+Gallery:)](https://git.io/typing-svg) 
 
- <img alt="Attitude" src="" width='200px' height='200px'>
- <img alt="Gems" src="" width='200px' height='200px'>
- <img alt="Zinus" src="" width='200px' height='200px'>
+<ul>
+  <li>
+    <a href="https://attitudeliving.com/">
+      Attitude
+    </a>
+    </li>
+</ul>
 
 
 <h4 align='center'> 

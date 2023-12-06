@@ -2,7 +2,7 @@
 <h1 align='center'>👨‍🎨 Arthur Taphanand </h1>
 
 <p align='center'>
-Hey there! I'm Art and I'm a full-stack developer with 4+ YOE, currently working as a React Developer at a Shopify Plus development agency - providing solutions for eCommerce giants in today's marketplace. 
+Hey there! I'm Art and I'm a full-stack developer with 4+ YOE, currently working as a Frontend(React) Developer at a Shopify Plus development agency - providing solutions for eCommerce giants in today's marketplace. 
 </p>
 
 

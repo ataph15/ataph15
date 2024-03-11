@@ -6,9 +6,9 @@ Hey there! I'm Art and I'm a full-stack developer with 4+ YOE, currently working
 </p>
 
 
-<h2 align='center'>
+<h2 align='left'>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🖌️+Tech+%26+Tools:)](https://git.io/typing-svg)  
+  🖌️ Languages & Tools:
   
 <p align='center'>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
@@ -59,25 +59,22 @@ Hey there! I'm Art and I'm a full-stack developer with 4+ YOE, currently working
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20Automation-34A853.svg?logo=google%20sheets&logoColor=white">
 </p>
 
-<h2 align='center'>
+<h2 align='left'>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8071a8&size=40&multiline=true&lines=🎨Art+Gallery:)](https://git.io/typing-svg) 
+ 🎨Art Gallery
 
-<ul list-style='none'>
+<ul>
   <li>
-    1️⃣ 
     <a href="https://attitudeliving.com/" >
       Attitude Living
     </a>
   </li>
     <li>
-    2️⃣
     <a href="https://trueclassictees.com/">
       True Classic Tees
     </a>
   </li>
   <li>
-    3️⃣
     <a href="https://zinus.com/">
       Zinus Mattresses
     </a>

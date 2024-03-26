@@ -6,7 +6,7 @@ Hey there! I'm Art and I'm a full-stack developer with 4+ YOE, currently working
 </p>
 
 
-<h2 align='left'>
+<h2 align='center'>
   
   🖌️ Languages & Tools:
   
@@ -59,30 +59,5 @@ Hey there! I'm Art and I'm a full-stack developer with 4+ YOE, currently working
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20Automation-34A853.svg?logo=google%20sheets&logoColor=white">
 </p>
 
-<h2 align='left'>
- 
- 🎨Art Gallery
 
-<ul>
-  <li>
-    <a href="https://attitudeliving.com/" >
-      Attitude Living
-    </a>
-  </li>
-    <li>
-    <a href="https://trueclassictees.com/">
-      True Classic Tees
-    </a>
-  </li>
-  <li>
-    <a href="https://zinus.com/">
-      Zinus Mattresses
-    </a>
-  </li>
-</ul>
-
-
-<h4 align='center'> 
-  
-  **Some notable Shopify Plus clients and projects*  </h4>
   
